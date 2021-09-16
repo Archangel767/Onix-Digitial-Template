@@ -194,7 +194,7 @@ body {
 }
 
 .section-heading h2 span {
-  color: #ff695f;
+  color: #17aa30;
   font-weight: 700;
   opacity: 1;
   text-transform: capitalize;
@@ -204,7 +204,7 @@ body {
   font-size: 30px;
   text-transform: uppercase;
   font-weight: 700;
-  color: #ff695f;
+  color: #17aa30;
   opacity: 0.15;
 }
 
@@ -617,7 +617,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #3b53c0;
+  color: #c0413b;
 }
 
 @media (max-width: 1200px) {
