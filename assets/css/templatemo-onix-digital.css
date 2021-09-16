@@ -141,13 +141,13 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: #505050;;
   font-family: 'Poppins', sans-serif;
 }
 
 ::selection {
   background: #03a4ed;
-  color: #fff;
+  color: #505050;
 }
 
 ::-moz-selection {
@@ -158,6 +158,7 @@ body {
 @media (max-width: 991px) {
   html, body {
     overflow-x: hidden;
+    color: #505050;
   }
   .mobile-top-fix {
     margin-top: 30px;
